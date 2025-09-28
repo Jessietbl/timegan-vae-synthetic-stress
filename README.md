@@ -38,7 +38,7 @@ The project replicates real-world disruptions such as the **COVID-19 pandemic (2
 The synthetic datasets generated in this project are hosted on a **private Kaggle repository**.  
 Access can be provided upon request. Please contact:  
 
-✉️ Jessie jess.tstudent@gmail.com  
+✉️ Jessie jess.tbl@gmail.com
 
 The datasets will be released publicly upon acceptance of the IEEE CAI 2026 submission.
 

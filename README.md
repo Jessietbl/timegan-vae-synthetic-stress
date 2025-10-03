@@ -40,8 +40,6 @@ Access can be provided upon request. Please contact:
 
 ✉️ Jessie jess.tbl@gmail.com
 
-The datasets will be released publicly upon acceptance of the IEEE CAI 2026 submission.
-
 
 ## 🔧 Installation
 Clone the repository and install dependencies:
